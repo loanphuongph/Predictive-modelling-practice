@@ -1,0 +1,4 @@
+- Using LazyPredict
+- Feature Extraction with PCA
+- Feature Selection with Filter and Wrapper Method and comparison.
+- Using XGBoost and Naive Bayes to select Features
